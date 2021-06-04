@@ -11,7 +11,7 @@
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=❔❔❔❔&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![Prasoon's github stats](https://github-readme-stats.vercel.app/api?username=princeblr&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -31,3 +31,4 @@
 
 
 [![Prasoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=princeblr&show_icons=true&theme=merko)](https://github.com/princblr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princeblr&show_icons=true&theme=merko)](https://github.com/princeblr/github-readme-stats)
