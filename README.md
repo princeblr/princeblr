@@ -30,4 +30,4 @@
 [linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
 
 
-[![Prasoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=princeblr)](https://github.com/princblr/github-readme-stats)
+[![Prasoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=princeblr&show_icons=true&theme=merko)](https://github.com/princblr/github-readme-stats)
