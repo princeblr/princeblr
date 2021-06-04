@@ -28,3 +28,6 @@
 [website]: https://google.com
 [twitter]: https://twitter.com/indrajeet_nikam
 [linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
+
+
+[![Prasoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=princeblr)](https://github.com/princblr/github-readme-stats)
