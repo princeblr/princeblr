@@ -3,9 +3,9 @@
 
 ## Your short description
 - 🔭 I’m currently working on - Azure, DevOps, Python
-- 🌱 I’m currently learning - Dynamic Programming, Yoga Nidra, 
-- 👯 I’m looking to collaborate with - AI projects
-- 💬 Ask me about - DevOps, Yoga, Sleep, Meditation, Python
+- 🌱 I’m currently learning - Dynamic Programming, Podcast
+- 👯 I’m looking to collaborate with - AI projects, Yoga Nidra, Meditation, Podcasts, DevOps
+- 💬 Ask me about - here
 - 🥅 2021 Goal - Meta-Human and less python gotchas!!
 - ⚡ Fun fact - I am a human !!
 
@@ -26,8 +26,8 @@
 
 <!-- This section you create this variables that are used above -->
 [website]: https://google.com
-[twitter]: https://twitter.com/indrajeet_nikam
-[linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
+[twitter]: https://twitter.com
+[linkedin]: https://www.linkedin.com/in/prasoonmajumdar
 
 
 [![Prasoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=princeblr&show_icons=true&theme=merko)](https://github.com/princblr/github-readme-stats)
