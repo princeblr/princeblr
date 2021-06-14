@@ -32,3 +32,6 @@
 
 [![Prasoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=princeblr&show_icons=true&theme=merko)](https://github.com/princblr/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princeblr&show_icons=true&theme=merko)](https://github.com/princeblr/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=princeblr&theme=onedark)](https://github.com/princeblr/github-profile-trophy)
+
