@@ -1,9 +1,9 @@
 ![Alt Text](https://github.com/princeblr/princeblr/blob/main/header.png)
 
-### Hi, I'm Prasoon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
+<!-- ### Hi, I'm Prasoon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
+<!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
 
-## Your short description
+## I am currently rambling with..
 - 🔭 I’m currently working on - Azure, DevOps, Python
 - 🌱 I’m currently learning - Dynamic Programming, Podcast
 - 👯 I’m looking to collaborate with - AI projects, Yoga Nidra, Meditation, Podcasts, DevOps
